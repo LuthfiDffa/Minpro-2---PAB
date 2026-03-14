@@ -2,7 +2,6 @@
 
 Aplikasi ini saya rancang sebagai platform katalog digital sederhana untuk pengelolaan dan tampilan koleksi mobil di sebuah showroom.
 
-
 ## 📝 Deskripsi Aplikasi
 Aplikasi ini merupakan lanjutan dari projek sebelumnya yang berfokus pada UI yang user-friendly, serta manajemen data (CRUD) untuk pengelolaan stok mobil. Pada projek lanjutan kali ini dilakukan pengembangan menggunakan **Supabase** sebagai backend (database & authentication) agar bisa menawarkan performa yang lebih bagus dengan sinkronisasi data instan.
 
